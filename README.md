@@ -43,3 +43,5 @@ ALUNOS: CAROLINE VITORIA, NICOLAS ANTONIO, LEONARDO SANTOS, RHAYELLE FROIS E EMI
 6 - Site deve atualizar os quartos disponiveis imediatamente, para que duas pessoas não consigam reservar o mesmo quarto;
 
 7 - O site deve ter uma interface intuitiva facilitando a experiência do usuário;
+
+ALUNOS: CAROLINE VITORIA, NICOLAS ANTONIO, LEONARDO SANTOS, RHAYELLE FROIS E EMILLY GABRIELE
